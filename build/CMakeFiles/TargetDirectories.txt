@@ -1,0 +1,13 @@
+/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles/test.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles/edit_cache.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles/rebuild_cache.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles/package_source.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles/package.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles/CMake_tutorial.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/package_source.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/package.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/test.dir
+/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/MakeTable.dir

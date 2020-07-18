@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MathFunctions.h
+
+/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp
+MathFunctions.h
+/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/TutorialConfig.h
+stdio.h
+-
+Table.h
+/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/Table.h
+math.h
+-
+
+MathFunctions/Table.h
+
+TutorialConfig.h
+

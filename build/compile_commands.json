@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/haoyuguo/Desktop/USC/CMake_example/build",
+  "command": "/usr/local/bin/g++-9   -I/Users/haoyuguo/Desktop/USC/CMake_example/build -I/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/CMake_tutorial.dir/tutorial.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp",
+  "file": "/Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp"
+},
+{
+  "directory": "/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions",
+  "command": "/usr/local/bin/g++-9   -I/Users/haoyuguo/Desktop/USC/CMake_example/build -I/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions -I/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/MathFunctions.dir/mysqrt.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp",
+  "file": "/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp"
+},
+{
+  "directory": "/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions",
+  "command": "/usr/local/bin/g++-9   -I/Users/haoyuguo/Desktop/USC/CMake_example/build -I/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions -I/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/MakeTable.dir/MakeTable.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp",
+  "file": "/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp"
+}
+]
