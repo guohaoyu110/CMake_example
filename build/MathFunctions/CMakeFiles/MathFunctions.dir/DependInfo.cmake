@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp" "/Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

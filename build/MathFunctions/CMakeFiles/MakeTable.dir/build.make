@@ -80,15 +80,15 @@ include MathFunctions/CMakeFiles/MakeTable.dir/flags.make
 MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cpp.o: MathFunctions/CMakeFiles/MakeTable.dir/flags.make
 MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cpp.o: ../MathFunctions/MakeTable.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cpp.o"
-	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/local/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MakeTable.dir/MakeTable.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp
+	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MakeTable.dir/MakeTable.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp
 
 MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MakeTable.dir/MakeTable.cpp.i"
-	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/local/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp > CMakeFiles/MakeTable.dir/MakeTable.cpp.i
+	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp > CMakeFiles/MakeTable.dir/MakeTable.cpp.i
 
 MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MakeTable.dir/MakeTable.cpp.s"
-	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/local/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp -o CMakeFiles/MakeTable.dir/MakeTable.cpp.s
+	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/MakeTable.cpp -o CMakeFiles/MakeTable.dir/MakeTable.cpp.s
 
 # Object files for target MakeTable
 MakeTable_OBJECTS = \

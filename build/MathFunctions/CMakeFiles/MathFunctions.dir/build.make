@@ -84,15 +84,15 @@ MathFunctions/Table.h: MathFunctions/MakeTable
 MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.o: MathFunctions/CMakeFiles/MathFunctions.dir/flags.make
 MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.o: ../MathFunctions/mysqrt.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.o"
-	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/local/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MathFunctions.dir/mysqrt.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp
+	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MathFunctions.dir/mysqrt.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp
 
 MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MathFunctions.dir/mysqrt.cpp.i"
-	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/local/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp > CMakeFiles/MathFunctions.dir/mysqrt.cpp.i
+	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp > CMakeFiles/MathFunctions.dir/mysqrt.cpp.i
 
 MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MathFunctions.dir/mysqrt.cpp.s"
-	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/local/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp -o CMakeFiles/MathFunctions.dir/mysqrt.cpp.s
+	cd /Users/haoyuguo/Desktop/USC/CMake_example/build/MathFunctions && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/haoyuguo/Desktop/USC/CMake_example/MathFunctions/mysqrt.cpp -o CMakeFiles/MathFunctions.dir/mysqrt.cpp.s
 
 # Object files for target MathFunctions
 MathFunctions_OBJECTS = \

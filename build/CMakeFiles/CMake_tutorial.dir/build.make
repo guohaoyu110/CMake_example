@@ -80,15 +80,15 @@ include CMakeFiles/CMake_tutorial.dir/flags.make
 CMakeFiles/CMake_tutorial.dir/tutorial.cpp.o: CMakeFiles/CMake_tutorial.dir/flags.make
 CMakeFiles/CMake_tutorial.dir/tutorial.cpp.o: ../tutorial.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/haoyuguo/Desktop/USC/CMake_example/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CMake_tutorial.dir/tutorial.cpp.o"
-	/usr/local/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CMake_tutorial.dir/tutorial.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp
+	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CMake_tutorial.dir/tutorial.cpp.o -c /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp
 
 CMakeFiles/CMake_tutorial.dir/tutorial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CMake_tutorial.dir/tutorial.cpp.i"
-	/usr/local/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp > CMakeFiles/CMake_tutorial.dir/tutorial.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp > CMakeFiles/CMake_tutorial.dir/tutorial.cpp.i
 
 CMakeFiles/CMake_tutorial.dir/tutorial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CMake_tutorial.dir/tutorial.cpp.s"
-	/usr/local/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp -o CMakeFiles/CMake_tutorial.dir/tutorial.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/haoyuguo/Desktop/USC/CMake_example/tutorial.cpp -o CMakeFiles/CMake_tutorial.dir/tutorial.cpp.s
 
 # Object files for target CMake_tutorial
 CMake_tutorial_OBJECTS = \

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200718-2110-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.17.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Mac OS X"
+	Hostname="Haoyus-MacBook-Pro.local"
+	OSRelease="10.15.5"
+	OSVersion="19F101"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="6144"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2700"
+	>
+	<Testing>
+		<StartDateTime>Jul 18 14:59 PDT</StartDateTime>
+		<StartTestTime>1595109588</StartTestTime>
+		<TestList>
+			<Test>./TutorialRuns</Test>
+			<Test>./TutorialUsage</Test>
+			<Test>./TutorialComp4</Test>
+			<Test>./TutorialComp9</Test>
+			<Test>./TutorialComp5</Test>
+			<Test>./TutorialComp7</Test>
+			<Test>./TutorialComp25</Test>
+			<Test>./TutorialComp-25</Test>
+			<Test>./TutorialComp0.0001</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TutorialRuns</Name>
+			<Path>.</Path>
+			<FullName>./TutorialRuns</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "25"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0304616</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "25"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 25 to be 5 using log
+The square root of 25 is 5
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialUsage</Name>
+			<Path>.</Path>
+			<FullName>./TutorialUsage</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.031512</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Usage:.*number]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzTDy1OLSrWz0jMryxNL83Xd0ktzi7JL9APDXbWd/ZNzE6NT61IzC3ISdVPKs3MSYGKlZSW5BdlJuYohAE1Z+bnKRjqGXCFFiemp1op6FNmYl5pblJqERcAgzE3RA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp4</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp4</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "4"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.035861</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[4 is 2]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "4"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 4 to be 2 using log
+The square root of 4 is 2
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp9</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp9</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "9"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0351303</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[9 is 3]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "9"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 9 to be 3 using log
+The square root of 9 is 3
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp5</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp5</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "5"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0358775</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[5 is 2.236]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "5"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 5 to be 2.23607 using log
+The square root of 5 is 2.23607
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp7</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp7</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "7"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0294407</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[7 is 2.645]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "7"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 7 to be 2.64575 using log
+The square root of 7 is 2.64575
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp25</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp25</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "25"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0246026</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[25 is 5]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "25"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 25 to be 5 using log
+The square root of 25 is 5
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp-25</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp-25</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "-25"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0188475</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[-25 is 0]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "-25"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>The square root of -25 is 0
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TutorialComp0.0001</Name>
+			<Path>.</Path>
+			<FullName>./TutorialComp0.0001</FullName>
+			<FullCommandLine>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "0.0001"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.012394</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[0.0001 is 0.01]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/haoyuguo/Desktop/USC/CMake_example/build/CMake_tutorial "0.0001"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Computing sqrt of 0.0001 to be 0.01 using log
+The square root of 0.0001 is 0.01
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jul 18 14:59 PDT</EndDateTime>
+		<EndTestTime>1595109588</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
